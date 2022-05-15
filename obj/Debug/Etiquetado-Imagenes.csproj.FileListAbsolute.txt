@@ -1,0 +1,2 @@
+C:\Users\OscarDavid\Documents\Proyectos\Etiquetado-Imagenes\obj\Debug\Etiquetado-Imagenes.csproj.AssemblyReference.cache
+C:\Users\OscarDavid\Documents\Proyectos\Etiquetado-Imagenes\obj\Debug\Etiquetado-Imagenes.csproj.CoreCompileInputs.cache
